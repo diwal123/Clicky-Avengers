@@ -1,0 +1,74 @@
+[
+    {
+      "id": "image1",
+      "name": "Iron Man",
+      "image": "https://i.pinimg.com/564x/ef/2e/86/ef2e86bbe790ce4bcc387f110c96b092.jpg",
+      "clicked": false
+    },
+    {
+      "id":"Captain America",
+      "name": "Mr. Krabs",
+      "image": "https://i.pinimg.com/564x/c9/e7/02/c9e702ebdb3a00737f308820c711e4f9.jpg",
+      "clicked": false
+    },
+    {
+      "id": "image3",
+      "name": "SpiderMan",
+      "image": "https://i.pinimg.com/564x/71/f2/90/71f290397f19ec44311d227f170a0e98.jpg",
+      "clicked": false
+    },
+    {
+      "id": "image4",
+      "name": "Thor",
+      "image": "https://tvmedia.ign.com/tv/image/object/142/14298774/ThorAniOb.jpg",
+      "clicked": false
+    },
+    {
+      "id":"image5",
+      "name": "Hulk",
+      "image": "https://i.pinimg.com/564x/7d/52/1f/7d521f48894d9bd76ed5fc87d852d557.jpg",
+      "clicked": false
+    },
+    {
+      "id": "image6",
+      "name": "Dr Strange",
+      "image": "https://i.pinimg.com/236x/9f/61/f6/9f61f65f6258a56b2288c4aa3822dbe3.jpg",
+      "clicked": false
+    },
+    {
+      "id": "image7",
+      "name": "Hawk Eye",
+      "image": "https://i.pinimg.com/564x/52/cd/d8/52cdd89f3f5bd692460db635691fd1d8.jpg",
+      "clicked": false
+    },
+    {
+      "id": "image8",
+      "name": "Black panther",
+      "image": "https://i.pinimg.com/564x/09/73/05/097305e87826287fb9f6acb40021a5f0.jpg",
+      "clicked": false
+    },
+    {
+      "id": "image9",
+      "name": "Ant Man",
+      "image": "https://cdn10.bigcommerce.com/s-k9r94cx2is/products/3082/images/6277/4845__96494.1536793496.1280.1280.JPG?c=2",
+      "clicked": false
+    },
+    {
+      "id": "image10",
+      "name": "Drax",
+      "image": "https://i.pinimg.com/564x/36/5e/ca/365ecafe27500f8afa07822d6b675e24.jpg",
+      "clicked": false
+    },
+    {
+      "id": "image11",
+      "name": "Rocket",
+      "image": "https://i.pinimg.com/564x/bf/dd/3a/bfdd3a2c1cebf560ba2db2f2b16111b1.jpg",
+      "clicked": false
+    },
+    {
+      "id": "image12",
+      "name": "Black Widow",
+      "image": "https://i.pinimg.com/564x/0d/d1/3e/0dd13eeceee0ff823cb0c6f8cdc8f22c.jpg",
+      "clicked": false
+    }
+  ]
