@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Clicky-Avengers/static/css/main.795991f2.chunk.css",
+    "main.js": "/Clicky-Avengers/static/js/main.1bf32ad6.chunk.js",
+    "main.js.map": "/Clicky-Avengers/static/js/main.1bf32ad6.chunk.js.map",
+    "runtime~main.js": "/Clicky-Avengers/static/js/runtime~main.36d166b3.js",
+    "runtime~main.js.map": "/Clicky-Avengers/static/js/runtime~main.36d166b3.js.map",
+    "static/js/2.69fc8f4e.chunk.js": "/Clicky-Avengers/static/js/2.69fc8f4e.chunk.js",
+    "static/js/2.69fc8f4e.chunk.js.map": "/Clicky-Avengers/static/js/2.69fc8f4e.chunk.js.map",
+    "index.html": "/Clicky-Avengers/index.html",
+    "precache-manifest.1dadfb5cf720cb5cb68e63929237a499.js": "/Clicky-Avengers/precache-manifest.1dadfb5cf720cb5cb68e63929237a499.js",
+    "service-worker.js": "/Clicky-Avengers/service-worker.js",
+    "static/css/main.795991f2.chunk.css.map": "/Clicky-Avengers/static/css/main.795991f2.chunk.css.map"
+  }
+}
